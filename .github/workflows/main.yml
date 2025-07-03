@@ -1,6 +1,7 @@
 name: worker-disguised
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
